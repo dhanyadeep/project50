@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: rgb(235, 236, 140);
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: cadetblue;
+    display: flex;
+    justify-content:flex-end;
+}
+.main{
+    background-color: rgba(146, 211, 219, 0.603);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
